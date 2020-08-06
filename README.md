@@ -12,7 +12,7 @@ Multplay is a beautiful game launcher that brings all your games together in one
 
 ## Layout
 
-![Multplay Launcher](/.github/layout.png)
+![Multplay Launcher UI](/.github/layout.png)
 
 ## Contributing
 
