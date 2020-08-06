@@ -16,7 +16,7 @@ This repository is currently under development. If you want to contribute please
 
 ## Building
 
-You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
+You'll need [Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com/) installed on your computer in order to build this app.
 
 ```bash
 git clone https://github.com/VictorMenegazzo/multplay.git
