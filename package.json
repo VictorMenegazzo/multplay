@@ -1,0 +1,9 @@
+{
+  "name": "multplay",
+  "version": "1.0.0",
+  "description": "Multplay is a beautiful game launcher that brings all your games together in one place 🧁 (under development)",
+  "main": "./dist/main.js",
+  "repository": "https://github.com/VictorMenegazzo/multplay.git",
+  "author": "VictorMenegazzo <comercial.victormenegazzo@gmail.com>",
+  "license": "MIT"
+}
