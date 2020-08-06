@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.svg" width="200" alt="Here will be the logo"/>
+  <img src=".github/logo.svg" width="200" alt="Multplay logo"/>
 </p>
 
 <h1 align="center">
